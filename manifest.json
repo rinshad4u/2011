@@ -1,6 +1,5 @@
 {
 	"commerceSuiteVersion": "2011",
-	"useCloudExtensionPack": true,
 	"extensions": [
 "adaptivesearch",
 "adaptivesearchbackoffice",
