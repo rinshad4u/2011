@@ -1,0 +1,433 @@
+{
+	"commerceSuiteVersion": "2011",
+	"useCloudExtensionPack": true,
+	"extensions": [
+"adaptivesearch",
+"adaptivesearchbackoffice",
+"adaptivesearchfacades",
+"adaptivesearchsamplesaddon",
+"adaptivesearchsolr",
+"adaptivesearchwebservices",
+"apiregistrybackoffice",
+"apiregistryservices",
+"assistedservicecustomerinterestsaddon",
+"assistedservicecustomerinterestsfacades",
+"assistedservicefacades",
+"assistedservicepromotionaddon",
+"assistedservicepromotionfacades",
+"assistedserviceservices",
+"assistedservicestorefront",
+"assistedservicewebservices",
+"assistedserviceyprofileaddon",
+"assistedserviceyprofilefacades",
+"yaasyprofileconnect",
+"apparelstore",
+"electronicsstore",
+"captchaaddon",
+"multicountrysampledataaddon",
+"wishlist",
+"pcmbackofficesamplesaddon",
+"classificationgroupsservices",
+"mediaconversionbackoffice",
+"patchesbackoffice",
+"pcmbackoffice",
+"backoffice",
+"backofficesolrsearch",
+"platformbackoffice",
+"ybackoffice",
+"yacceleratorbackoffice",
+"yacceleratorcore",
+"yacceleratorfacades",
+"yacceleratorinitialdata",
+"yacceleratorstorefront",
+"yaddon",
+"basecommerce",
+"basecommercebackoffice",
+"customerreview",
+"payment",
+"promotions",
+"promotionsbackoffice",
+"voucher",
+"voucherbackoffice",
+"profileservices",
+"profiletagaddon",
+"merchandisingaddon",
+"merchandisingcmswebservices",
+"merchandisingservices",
+"merchandisingservicesbackoffice",
+"merchandisingsmartedit",
+"merchandisingstorefrontsampledataaddon",
+"cockpit",
+"commercefacades",
+"commerceservices",
+"commerceservicesbackoffice",
+"commercewebservices",
+"commercewebservicescommons",
+"commercewebservicestests",
+"yocc",
+"yocctests",
+"configurablebundleaddon",
+"configurablebundlebackoffice",
+"configurablebundlefacades",
+"configurablebundleocc",
+"configurablebundleocctests",
+"configurablebundleservices",
+"ysapproductconfigaddon",
+"consignmenttrackingaddon",
+"consignmenttrackingbackoffice",
+"consignmenttrackingfacades",
+"consignmenttrackingmock",
+"consignmenttrackingocc",
+"consignmenttrackingservices",
+"acceleratorbackoffice",
+"acceleratorcms",
+"acceleratorfacades",
+"acceleratorocc",
+"acceleratorservices",
+"acceleratorstorefrontcommons",
+"addonsupport",
+"couponbackoffice",
+"couponfacades",
+"couponservices",
+"couponwebservices",
+"customercouponaddon",
+"customercouponbackoffice",
+"customercouponfacades",
+"customercouponocc",
+"customercouponsamplesaddon",
+"customercouponservices",
+"customerinterestsaddon",
+"customerinterestsfacades",
+"customerinterestsocc",
+"customerinterestsservices",
+"customersupportbackoffice",
+"customerticketingaddon",
+"customerticketingfacades",
+"ticketsystem",
+"ticketsystembackoffice",
+"dataimportcommons",
+"entitlementbackoffice",
+"entitlementfacades",
+"entitlementservices",
+"eventtrackingmodel",
+"eventtrackingpublisher",
+"eventtrackingservices",
+"eventtrackingwsaddon",
+"inboundservices",
+"integrationbackoffice",
+"integrationbackofficetest",
+"integrationmonitoringbackoffice",
+"integrationservices",
+"odata2services",
+"odata2webservices",
+"odata2webservicesfeaturetests",
+"outboundservices",
+"outboundsync",
+"outboundsyncbackoffice",
+"webhookbackoffice",
+"webhookservices",
+"messagecentercsfacades",
+"messagecentercsocc",
+"messagecentercsservices",
+"notificationaddon",
+"notificationfacades",
+"notificationocc",
+"notificationservices",
+"npmancillary",
+"ordermanagementaddon",
+"ordermanagementfacades",
+"ordermanagementwebservices",
+"orderselfserviceaddon",
+"warehousing",
+"warehousingbackoffice",
+"warehousingfacades",
+"warehousingwebservices",
+"yacceleratorordermanagement",
+"personalizationcms",
+"personalizationcmsbackoffice",
+"personalizationcmsweb",
+"personalizationfacades",
+"personalizationsampledataaddon",
+"personalizationservices",
+"personalizationservicesbackoffice",
+"personalizationsmartedit",
+"personalizationwebservices",
+"previewpersonalizationweb",
+"personalizationaddon",
+"personalizationintegration",
+"personalizationintegrationbackoffice",
+"personalizationyprofile",
+"personalizationyprofilesampledataaddon",
+"personalizationpromotions",
+"personalizationpromotionsbackoffice",
+"personalizationpromotionssampledataaddon",
+"personalizationpromotionssmartedit",
+"personalizationpromotionsweb",
+"personalizationsearch",
+"personalizationsearchbackoffice",
+"personalizationsearchsamplesaddon",
+"personalizationsearchsmartedit",
+"personalizationsearchweb",
+"adminapi",
+"auditreportservices",
+"deltadetection",
+"embeddedserver",
+"groovynature",
+"mediaconversion",
+"patches",
+"springintegrationlibs",
+"tomcatembeddedserver",
+"yempty",
+"yvoid",
+"promotionenginebackoffice",
+"promotionenginesamplesaddon",
+"promotionengineservices",
+"droolsruleengineservices",
+"ordercalculation",
+"rulebuilderbackoffice",
+"ruledefinitions",
+"ruleengine",
+"ruleenginebackoffice",
+"ruleengineservices",
+"kymaintegrationbackoffice",
+"kymaintegrationservices",
+"solrfacetsearch",
+"solrfacetsearchbackoffice",
+"solrserver",
+"searchbackoffice",
+"searchprovidercssearchbackoffice",
+"searchprovidercssearchservices",
+"searchservices",
+"selectivecartfacades",
+"selectivecartservices",
+"selectivecartsplitlistaddon",
+"cmssmartedit",
+"cmssmarteditwebservices",
+"smartedit",
+"smarteditaddon",
+"smarteditwebservices", 
+"stocknotificationaddon",
+"stocknotificationfacades",
+"stocknotificationservices",
+"subscriptionbundlebackoffice",
+"subscriptionbundlefacades",
+"subscriptionbundleservices",
+"subscriptionbackoffice",
+"subscriptionfacades",
+"subscriptionservices",
+"textfieldconfiguratortemplateaddon",
+"textfieldconfiguratortemplatebackoffice",
+"textfieldconfiguratortemplatefacades",
+"textfieldconfiguratortemplateocc",
+"textfieldconfiguratortemplateocctests",
+"textfieldconfiguratortemplateservices",
+"timedaccesspromotionengineaddon",
+"timedaccesspromotionenginebackoffice",
+"timedaccesspromotionenginefacades",
+"timedaccesspromotionengineocc",
+"timedaccesspromotionenginesamplesaddon",
+"timedaccesspromotionengineservices",
+"cms2",
+"cms2lib",
+"cmsbackoffice",
+"cmscockpit",
+"cmsfacades",
+"cmsocc",
+"cmswebservices",
+"previewwebservices",
+"permissionsfacades",
+"permissionswebservices",
+"webservicescommons",
+"ywebservices",
+"xyformsbackoffice",
+"xyformsfacades",
+"xyformssamples",
+"xyformsservices",
+"xyformsstorefrontcommons",
+"xyformsweb"
+	],
+	"useConfig": {
+		"properties": [
+			{
+				"location": "/config/local.properties",
+				"persona": "production"
+			}
+		],
+		"extensions": {
+			"location": "/config/localextensions.xml"
+		}
+	},
+	"storefrontAddons": [
+		{
+			"addon": "smarteditaddon",
+			"storefront": "yb2bacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		}
+	],
+	"properties": [
+		{
+			"key": "regioncache.entityregion.size",
+			"value": "#{100000 * ( T(java.lang.Runtime).runtime.maxMemory() / ( 1024 * 1024 * 1024 * 4.0 ))}"
+		},
+		{
+			"key": "regioncache.querycacheregion.size",
+			"value": "#{20000 * ( T(java.lang.Runtime).runtime.maxMemory() / ( 1024 * 1024 * 1024 * 4.0 ))}"
+		},
+		{
+			"key": "regioncache.sessionregion.size",
+			"value": "#{50000 * ( T(java.lang.Runtime).runtime.maxMemory() / ( 1024 * 1024 * 1024 * 4.0 ))}"
+		},
+		{
+			"key": "regioncache.adaptivesearchregion.size",
+			"value": "#{2000 * ( T(java.lang.Runtime).runtime.maxMemory() / ( 1024 * 1024 * 1024 * 4.0 ))}"
+		},
+		{
+			"key": "regioncache.cmsregion.size",
+			"value": "#{20000 * ( T(java.lang.Runtime).runtime.maxMemory() / ( 1024 * 1024 * 1024 * 4.0 ))}"
+		},
+		{
+			"key": "regioncache.typesystemregion.size",
+			"value": "#{50000 * ( T(java.lang.Runtime).runtime.maxMemory() / ( 1024 * 1024 * 1024 * 4.0 ))}"
+		},
+		{
+			"key": "apiregistry.cache.maxentries",
+			"value": "#{5000 * ( T(java.lang.Runtime).runtime.maxMemory() / ( 1024 * 1024 * 1024 * 4.0 ))}"
+		}
+	],
+	"aspects": [
+		{
+			"name": "api",
+			"properties": [
+				{
+					"key":"task.engine.loadonstartup",
+					"value":"false"
+				}
+			]
+		},
+		{
+			"name": "backgroundProcessing",
+			"properties": [
+				{
+					"key": "task.engine.loadonstartup",
+					"value": "true"
+				}
+			],
+			"webapps": [
+				{
+					"name": "hac",
+					"contextPath": "/hac"
+				}
+			]
+		},
+		{
+			"name": "backoffice",
+			"properties": [
+				{
+					"key": "task.engine.loadonstartup",
+					"value": "false"
+				}
+			],
+			"webapps": [
+				{
+					"name": "hac",
+					"contextPath": "/hac"
+				},
+				{
+					"name": "mediaweb",
+					"contextPath": "/medias"
+				},
+				{
+					"name": "backoffice",
+					"contextPath": "/backoffice"
+				}
+			]
+		},
+		{
+			"name": "accstorefront",
+			"properties": [
+				{
+					"key": "spring.session.enabled",
+					"value": "true"
+				},
+				{
+					"key": "spring.session.yacceleratorstorefront.save",
+					"value": "async"
+				},
+				{
+					"key": "spring.session.yacceleratorstorefront.cookie.name",
+					"value": "JSESSIONID"
+				},
+				{
+					"key": "spring.session.yacceleratorstorefront.cookie.path",
+					"value": "/"
+				},
+				{
+					"key": "storefrontContextRoot",
+					"value": ""
+				},
+				{
+					"key": "task.engine.loadonstartup",
+					"value": "false"
+				}
+			],
+			"webapps": [
+				{
+					"name": "yb2bacceleratorstorefront",
+					"contextPath": ""
+				},
+				{
+					"name": "mediaweb",
+					"contextPath": "/medias"
+				},
+				{
+					"name": "smartedit",
+					"contextPath": "/smartedit"
+				},
+				{
+					"name": "smarteditwebservices",
+					"contextPath": "/smarteditwebservices"
+				},
+				{
+					"name": "cmssmartedit",
+					"contextPath": "/cmssmartedit"
+				},
+				{
+					"name": "cmssmarteditwebservices",
+					"contextPath": "/cmssmarteditwebservices"
+				},
+				{
+					"name": "cmswebservices",
+					"contextPath": "/cmswebservices"
+				},
+				{
+					"name": "previewwebservices",
+					"contextPath": "/previewwebservices"
+				},
+				{
+					"name": "permissionswebservices",
+					"contextPath": "/permissionswebservices"
+				},
+				{
+					"name": "oauth2",
+					"contextPath": "/authorizationserver"
+				},
+				{
+					"name": "personalizationsmartedit",
+					"contextPath": "/personalizationsmartedit"
+				},
+				{
+					"name": "personalizationwebservices",
+					"contextPath": "/personalizationwebservices"
+				},
+				{
+					"name": "personalizationpromotionssmartedit",
+					"contextPath": "/personalizationpromotionssmartedit"
+				},
+				{
+					"name": "personalizationsearchsmartedit",
+					"contextPath": "/personalizationsearchsmartedit"
+				}
+			]
+		}
+	]
+}
