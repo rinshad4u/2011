@@ -261,7 +261,88 @@
 			"addon": "smarteditaddon",
 			"storefront": "yacceleratorstorefront",
 			"template": "yacceleratorstorefront"
-		}
+		},
+			{
+			"addon": "adaptivesearchsamplesaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		
+		{
+			"addon": "acceleratorwebservicesaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		
+		{
+			"addon": "promotionenginesamplesaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		
+		{
+			"addon": "notificationaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		
+		{
+			"addon": "stocknotificationaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "personalizationsampledataaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "personalizationpromotionssampledataaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "personalizationsearchsamplesaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "personalizationyprofilesampledataaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "personalizationaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "pcmbackofficesamplesaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "multicountrysampledataaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "ordermanagementaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+			{
+			"addon": "configurablebundleaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "eventtrackingwsaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		
+		
 	],
 	"properties": [
 		{
