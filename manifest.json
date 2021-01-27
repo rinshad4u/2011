@@ -260,7 +260,7 @@
 	"storefrontAddons": [
 		{
 			"addon": "smarteditaddon",
-			"storefront": "yb2bacceleratorstorefront",
+			"storefront": "yacceleratorstorefront",
 			"template": "yacceleratorstorefront"
 		}
 	],
@@ -372,7 +372,7 @@
 			],
 			"webapps": [
 				{
-					"name": "yb2bacceleratorstorefront",
+					"name": "yacceleratorstorefront",
 					"contextPath": ""
 				},
 				{
