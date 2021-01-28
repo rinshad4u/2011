@@ -108,7 +108,6 @@
 "entitlementbackoffice",
 "entitlementfacades",
 "entitlementservices",
-
 "inboundservices",
 "integrationbackoffice",
 "integrationbackofficetest",
@@ -319,7 +318,7 @@
 			"addon": "configurablebundleaddon",
 			"storefront": "yacceleratorstorefront",
 			"template": "yacceleratorstorefront"
-		},
+		}
 		
 		
 		
