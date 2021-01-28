@@ -108,10 +108,7 @@
 "entitlementbackoffice",
 "entitlementfacades",
 "entitlementservices",
-"eventtrackingmodel",
-"eventtrackingpublisher",
-"eventtrackingservices",
-"eventtrackingwsaddon",
+
 "inboundservices",
 "integrationbackoffice",
 "integrationbackofficetest",
@@ -323,11 +320,7 @@
 			"storefront": "yacceleratorstorefront",
 			"template": "yacceleratorstorefront"
 		},
-		{
-			"addon": "eventtrackingwsaddon",
-			"storefront": "yacceleratorstorefront",
-			"template": "yacceleratorstorefront"
-		}
+		
 		
 		
 	],
