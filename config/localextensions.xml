@@ -282,7 +282,7 @@
 <extension name='sapymktsegmentation' />
 <extension name='sapymktsegmentationwebservices' />
 	
-	
+	<extension name='sapcoreaddon' />
 	
   </extensions>
 </hybrisconfig>
