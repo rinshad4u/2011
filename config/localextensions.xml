@@ -140,10 +140,10 @@
     <extension name='entitlementbackoffice' />
     <extension name='entitlementfacades' />
     <extension name='entitlementservices' />
-    <extension name='eventtrackingmodel' />
+      <!-- <extension name='eventtrackingmodel' />
     <extension name='eventtrackingpublisher' />
     <extension name='eventtrackingservices' />
-    <extension name='eventtrackingwsaddon' />
+    <extension name='eventtrackingwsaddon' />-->
     <extension name='inboundservices' />
     <extension name='integrationbackoffice' />
     <extension name='integrationbackofficetest' />
