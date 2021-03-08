@@ -348,8 +348,12 @@
          "addon":"sapcoreaddon",
          "storefront":"yacceleratorstorefront",
          "template":"yacceleratorstorefront"
+      },
+		{
+         "addon":"sapymktrecommendationaddon",
+         "storefront":"yacceleratorstorefront",
+         "template":"yacceleratorstorefront"
       }
-		
 		
 		
 	],
