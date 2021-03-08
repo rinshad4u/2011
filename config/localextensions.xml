@@ -1,7 +1,7 @@
 <hybrisconfig xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='../bin/platform/resources/schemas/extensions.xsd'>
   <extensions>
     <path dir='${HYBRIS_BIN_DIR}' autoload='false' />
-   <!-- <extension name='yb2bacceleratorstorefront' /> -->
+ 
     <extension name='adaptivesearch' />
     <extension name='adaptivesearchbackoffice' />
     <extension name='adaptivesearchfacades' />
@@ -21,26 +21,7 @@
     <extension name='assistedserviceyprofileaddon' />
     <extension name='assistedserviceyprofilefacades' />
     <extension name='yaasyprofileconnect' />
-  <!--  <extension name='b2bacceleratoraddon' />
-    <extension name='b2bacceleratorfacades' />
-    <extension name='b2bacceleratorservices' />
-    <extension name='b2bocc' />
-    <extension name='b2bocctests' />
-    <extension name='b2bwebservicescommons' /> 
-    <extension name='commerceorgaddon' />
-    <extension name='commerceorgsamplesaddon' />
-    <extension name='powertoolsstore' /> 
-    <extension name='accountsummaryaddon' />
-    <extension name='b2bpunchout' />
-    <extension name='b2bpunchoutaddon' /> 
-    <extension name='savedorderforms' />
-    <extension name='savedorderformsocc' />
-   <extension name='secureportaladdon' />
-   <extension name='b2bapprovalprocess' />
-    <extension name='b2bapprovalprocessfacades' />
-    <extension name='b2bcommerce' />
-    <extension name='b2bcommercebackoffice' />
-    <extension name='b2bcommercefacades' /> -->
+ 
     <extension name='apparelstore' />
     <extension name='electronicsstore' />
     <extension name='captchaaddon' />
@@ -69,8 +50,7 @@
     <extension name='promotionsbackoffice' />
     <extension name='voucher' />
     <extension name='voucherbackoffice' />
-    <extension name='profileservices' />
-    <extension name='profiletagaddon' />
+
     <extension name='merchandisingaddon' />
     <extension name='merchandisingcmswebservices' />
     <extension name='merchandisingservices' />
@@ -165,8 +145,7 @@
     <extension name='notificationocc' />
     <extension name='notificationservices' />
     <extension name='npmancillary' />
-  <!--   <extension name='b2bordermanagementfacades' />
-    <extension name='b2bordermanagementwebservices' /> -->
+
     <extension name='ordermanagementaddon' />
     <extension name='ordermanagementfacades' />
     <extension name='ordermanagementwebservices' />
@@ -272,12 +251,38 @@
     <extension name='permissionswebservices' />
     <extension name='webservicescommons' />
     <extension name='ywebservices' />
- <!--   <extension name='orbeonweb' /> -->
+
     <extension name='xyformsbackoffice' />
     <extension name='xyformsfacades' />
     <extension name='xyformssamples' />
     <extension name='xyformsservices' />
     <extension name='xyformsstorefrontcommons' />
     <extension name='xyformsweb' />
+	
+	
+<extension name='outboundservices' />
+<extension name='outboundsync' />
+<extension name='odata2webservices' />
+<extension name='integrationbackoffice' />
+<extension name='integrationmonitoringbackoffice' />
+<extension name='outboundsyncbackoffice' />
+<extension name='sapcpiadapter' />
+<extension name='sapcpicustomerexchange' />
+<extension name='sapcpiorderexchange' />
+<extension name='sapcpiproductexchange' />
+<extension name='personalizationymkt' />
+<extension name='sapymktclickstream' />
+<extension name='sapymktcommon' />
+<extension name='sapymktconsent' />
+<extension name='sapymktdatareplication' />
+<extension name='sapymktrecommendation' />
+<extension name='sapymktrecommendationaddon' />
+<extension name='sapymktrecommendationbuffer' />
+<extension name='sapymktrecommendationwebservices' />
+<extension name='sapymktsegmentation' />
+<extension name='sapymktsegmentationwebservices' />
+	
+	
+	
   </extensions>
 </hybrisconfig>
