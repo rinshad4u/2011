@@ -54,13 +54,6 @@
 "promotionsbackoffice",
 "voucher",
 "voucherbackoffice",
-
-"merchandisingaddon",
-"merchandisingcmswebservices",
-"merchandisingservices",
-"merchandisingservicesbackoffice",
-"merchandisingsmartedit",
-"merchandisingstorefrontsampledataaddon",
 "cockpit",
 "commercefacades",
 "commerceservices",
@@ -265,6 +258,7 @@
     "sapymktrecommendationbuffer",
     "sapymktrecommendationwebservices",
     "sapymktsegmentation",
+	"saporderexchangebackoffice",
     "sapymktsegmentationwebservices"
 ],
 	

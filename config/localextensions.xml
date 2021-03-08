@@ -50,13 +50,6 @@
     <extension name='promotionsbackoffice' />
     <extension name='voucher' />
     <extension name='voucherbackoffice' />
-
-    <extension name='merchandisingaddon' />
-    <extension name='merchandisingcmswebservices' />
-    <extension name='merchandisingservices' />
-    <extension name='merchandisingservicesbackoffice' />
-    <extension name='merchandisingsmartedit' />
-    <extension name='merchandisingstorefrontsampledataaddon' />
     <extension name='cockpit' />
     <extension name='commercefacades' />
     <extension name='commerceservices' />
@@ -283,6 +276,6 @@
 <extension name='sapymktsegmentationwebservices' />
 	
 	<extension name='sapcoreaddon' />
-	
+	<extension name='saporderexchangebackoffice'/>
   </extensions>
 </hybrisconfig>
