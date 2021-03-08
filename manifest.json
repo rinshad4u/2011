@@ -345,12 +345,16 @@
 			"addon": "configurablebundleaddon",
 			"storefront": "yacceleratorstorefront",
 			"template": "yacceleratorstorefront"
-		}
+		},
 		{
 			"addon": "selectivecartsplitlistaddon",
 			"storefront": "yacceleratorstorefront",
 			"template": "yacceleratorstorefront"
-		}
+		},{
+         "addon":"sapcoreaddon",
+         "storefront":"yacceleratorstorefront",
+         "template":"yacceleratorstorefront"
+      }
 		
 		
 		
