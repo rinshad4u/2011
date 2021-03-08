@@ -239,8 +239,30 @@
 "xyformssamples",
 "xyformsservices",
 "xyformsstorefrontcommons",
-"xyformsweb"
-	],
+"xyformsweb",	
+    "outboundservices",
+    "outboundsync",
+    "odata2webservices",
+    "integrationbackoffice",
+    "integrationmonitoringbackoffice",
+    "outboundsyncbackoffice",
+    "sapcpiadapter",
+    "sapcpicustomerexchange",
+    "sapcpiorderexchange",
+    "sapcpiproductexchange",
+    "personalizationymkt",
+    "sapymktclickstream",
+    "sapymktcommon",
+    "sapymktconsent",
+    "sapymktdatareplication",
+    "sapymktrecommendation",
+    "sapymktrecommendationaddon",
+    "sapymktrecommendationbuffer",
+    "sapymktrecommendationwebservices",
+    "sapymktsegmentation",
+    "sapymktsegmentationwebservices"
+],
+	
 	"useConfig": {
 		"properties": [
 			{
