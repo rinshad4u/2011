@@ -1,5 +1,11 @@
 {
 	"commerceSuiteVersion": "2011",
+	"extensionPacks" : [
+	{
+		"name" : "hybris-commerce-integrations",
+		"version" : "2102.0"
+	}
+	],
 	"extensions": [
 "adaptivesearch",
 "adaptivesearchbackoffice",
@@ -337,6 +343,11 @@
 		},
 			{
 			"addon": "configurablebundleaddon",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		}
+		{
+			"addon": "selectivecartsplitlistaddon",
 			"storefront": "yacceleratorstorefront",
 			"template": "yacceleratorstorefront"
 		}
