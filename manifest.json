@@ -198,6 +198,7 @@
 "cmssmarteditwebservices",
 "smartedit",
 "smarteditaddon",
+"selectivecartaddon",
 "smarteditwebservices", 
 "stocknotificationaddon",
 "stocknotificationfacades",
@@ -341,7 +342,7 @@
 			"template": "yacceleratorstorefront"
 		},
 		{
-			"addon": "selectivecartsplitlistaddon",
+			"addon": "selectivecartaddon",
 			"storefront": "yacceleratorstorefront",
 			"template": "yacceleratorstorefront"
 		},{
