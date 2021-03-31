@@ -354,8 +354,12 @@
          "addon":"sapymktrecommendationaddon",
          "storefront":"yacceleratorstorefront",
          "template":"yacceleratorstorefront"
-      }
-		
+      },
+		{
+			"addon": "assistedservicestorefront",
+			"storefront": "yacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		}
 		
 	],
 	"properties": [
@@ -531,6 +535,10 @@
             {
                 "name" : "adminapi",
                 "contextPath": "/adminapi"
+            },
+ {
+                "name" : "sapymktrecommendationwebservices",
+                "contextPath": "/sapymktrecommendationwebservices"
             }
 
 			]
