@@ -539,7 +539,12 @@
  {
                 "name" : "sapymktrecommendationwebservices",
                 "contextPath": "/sapymktrecommendationwebservices"
+            },
+{
+                "name" : "sapymktsegmentationwebservices",
+                "contextPath": "/sapymktsegmentationwebservices"
             }
+
 
 			]
 		}
