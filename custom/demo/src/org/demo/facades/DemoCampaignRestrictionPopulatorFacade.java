@@ -39,6 +39,23 @@ public class DemoCampaignRestrictionPopulatorFacade
 	@Resource
 	private ConfigurationService configurationService;
 
+	/**
+	 * @return the configurationService
+	 */
+	public ConfigurationService getConfigurationService()
+	{
+		return configurationService;
+	}
+
+	/**
+	 * @param configurationService
+	 *           the configurationService to set
+	 */
+	public void setConfigurationService(final ConfigurationService configurationService)
+	{
+		this.configurationService = configurationService;
+	}
+
 	protected OptionData createOptionData(final SAPInitiative initiative)
 	{
 		final OptionData opData = new OptionData();
