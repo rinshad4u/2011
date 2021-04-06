@@ -279,5 +279,9 @@
 	<extension name='saporderexchangebackoffice'/>
 	
 	<extension name='selectivecartaddon' />
+	
+	
+	  <extension name='demo' />
+   
   </extensions>
 </hybrisconfig>

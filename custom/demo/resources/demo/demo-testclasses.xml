@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><demo><testclass>org.demo.jalo.DemoTest</testclass><testclass>org.demo.service.impl.DefaultDemoServiceIntegrationTest</testclass></demo></testclasses>

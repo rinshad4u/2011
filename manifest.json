@@ -260,7 +260,8 @@
     "sapymktrecommendationwebservices",
     "sapymktsegmentation",
 	"saporderexchangebackoffice",
-    "sapymktsegmentationwebservices"
+    "sapymktsegmentationwebservices",
+"demo"
 ],
 	
 	"useConfig": {
