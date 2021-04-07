@@ -20,6 +20,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Required;
 
 import com.hybris.ymkt.segmentation.dto.SAPInitiative;
+import com.hybris.ymkt.segmentation.facades.CampaignRestrictionPopulatorFacade;
 import com.hybris.ymkt.segmentation.services.InitiativeService;
 import com.hybris.ymkt.segmentation.services.InitiativeService.InitiativeQuery;
 import com.hybris.ymkt.segmentation.services.InitiativeService.InitiativeQuery.TileFilterCategory;
@@ -28,7 +29,7 @@ import com.hybris.ymkt.segmentation.services.InitiativeService.InitiativeQuery.T
 /**
  * Facade that provides functionality to retrieve campaigns from back end
  */
-public class DemoCampaignRestrictionPopulatorFacade
+public class DemoCampaignRestrictionPopulatorFacade extends CampaignRestrictionPopulatorFacade
 {
 	private static final Logger LOGGER = LoggerFactory.getLogger(DemoCampaignRestrictionPopulatorFacade.class);
 	public static final String DEFAULT_VALUE = "2";
